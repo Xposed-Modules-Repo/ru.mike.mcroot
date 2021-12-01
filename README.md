@@ -6,6 +6,7 @@ Remove checks of:
 - root
 - unacceptable apps
 - unacceptable device properties (developer options etc)
+- non-market installation
 
 SafetyNet: the McD app requests SafetyNet pass! Use Magisk+Riru+Riru-Unshare etc
 
