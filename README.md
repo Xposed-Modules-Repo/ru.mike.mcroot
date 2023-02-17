@@ -15,4 +15,4 @@ SafetyNet: the McD app requests SafetyNet pass! Use Magisk+Riru+Riru-Unshare etc
 
 
 ## Author
-[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2021
+[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2021-2023
